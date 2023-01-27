@@ -191,10 +191,10 @@ img {
   padding: 10px 20px;
 }
 .mu-main-navbar .navbar-header .navbar-brand {
-  padding: 0;
-  margin-top: 8px;
-  height: 34px;
-  width: 145px;
+  padding: 0px;
+  margin-top: 15px;
+  height:40px;
+  width: 200px;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
@@ -202,8 +202,10 @@ img {
   transition: all 0.5s;
 }
 .mu-main-navbar .navbar-header .navbar-brand img {
-  width: 100%;
-  height: 100%;
+  width: 200px;
+  height: 230%;
+  padding: 0%;
+  margin: 0%;
 }
 .mu-main-navbar .navbar-header .navbar-brand-small {
   height: 20px;
